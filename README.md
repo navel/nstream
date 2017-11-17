@@ -1,6 +1,6 @@
 ## NSTREAM
 
-navel.live streaming with: <br>
+live streaming with: <br>
 [NGINX](https://nginx.org/)  <br>
 [RTMP](https://github.com/tiangolo/nginx-rtmp-docker)
 
@@ -26,4 +26,4 @@ navel.live streaming with: <br>
         - Stream key: `test`
     * Press `Start Streaming` button
 
-`http://localhost:9999` 
+`http://localhost:9999`
